@@ -29,3 +29,6 @@ body {
     background: #f4f4f4;
     border-style: dashed;
 }
+.ivnisible{
+    display: none;
+}
